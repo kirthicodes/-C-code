@@ -1,2 +1,1 @@
-# -C-code
-My practice
+Day 2 C practice
